@@ -1,4 +1,4 @@
-# BCR Publisher
+# BSR Publisher
 
 This document explains how to use the `publish-to-bcr.sh` script to publish `googleapis` to the Bazel Central Registry (BCR).
 
